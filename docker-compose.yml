@@ -1,0 +1,7 @@
+version: '3'
+services:
+    imap_bot_tg:
+          build: .
+          restart: always
+          volumes:
+            - "./scripts:/scripts"
