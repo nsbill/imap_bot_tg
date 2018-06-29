@@ -1,0 +1,35 @@
+Received: from mxback7g.mail.yandex.net ([127.0.0.1])
+	by mxback7g.mail.yandex.net with LMTP id QSFH0sp5;
+	Fri, 29 Jun 2018 14:46:11 +0300
+Received: from mxback7g.mail.yandex.net (localhost.localdomain [127.0.0.1])
+	by mxback7g.mail.yandex.net (Yandex) with ESMTP id 4AB6E2F81662;
+	Fri, 29 Jun 2018 14:46:11 +0300 (MSK)
+Received: from localhost (localhost [::1])
+	by mxback7g.mail.yandex.net (nwsmtp/Yandex) with ESMTP id 6n6pwZKMXT-kAl83VxR;
+	Fri, 29 Jun 2018 14:46:10 +0300
+X-Yandex-Front: mxback7g.mail.yandex.net
+X-Yandex-TimeMark: 1530272770
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=dtulyakov.ru; s=mail; t=1530272770;
+	bh=6PxROZBJ68m0F+MD8JafYkLQgH+SIpoLzFKl/AciK/c=;
+	h=From:To:Subject:Date:Message-Id;
+	b=LH9yUUbD+dMUmvRaPkav5UnqTeRCPivYMneKDmrB7KcDuhK4xvkFCpQ/d7B5cy/4G
+	 2PmHwPgs9KDbCLLosmlc8vbTpGdWoBwqxmKoX59JhH+LqmgBLiiGepefJ07+TZFRje
+	 B4Fj3sdnJNjKXgPVin77uCmnNxmFQhVkIARBgQj8=
+Authentication-Results: mxback7g.mail.yandex.net; dkim=pass header.i=@dtulyakov.ru
+X-Yandex-Spam: 1
+X-Yandex-Sender-Uid: 1130000028405312
+Received: by web17j.yandex.ru with HTTP;
+	Fri, 29 Jun 2018 14:46:10 +0300
+From: jenkins@dtulyakov.ru
+To: tgraff@nsbill.ru
+Subject: =?utf-8?B?0KLQldCc0JA=?=
+MIME-Version: 1.0
+X-Mailer: Yamail [ http://yandex.ru ] 5.0
+Date: Fri, 29 Jun 2018 14:46:10 +0300
+Message-Id: <7359931530272770@web17j.yandex.ru>
+Content-Transfer-Encoding: 8bit
+Content-Type: text/html; charset=utf-8
+Return-Path: jenkins@dtulyakov.ru
+X-Yandex-Forward: 67dc7d87d978fde7a545ef2fa55982ea
+
+<div>TELO MAIL<div><br />--<div><span>С уважением,<br />Денис Туляков <a target="_blank" href="http://blog.dtulyakov.ru/">http://blog.dtulyakov.ru</a><br />☎ <span>+7(989)612-40-59</span> МТС<br />telegram: @dtulyakov</span></div><span>hangouts: <a target="_blank" href="mailto:dtulyakov@gmail.com">dtulyakov@gmail.com</a></span><div><span>--------------------------<br />RIPE<br />nic-hdl:        nhdt<br />mnt-by:         dtulyakov<br />--------------------------<br /><a target="_blank" href="http://www.linkedin.com/in/dtulyakov">http://www.linkedin.com/in/dtulyakov</a><br /><a target="_blank" href="http://pgp.mit.edu/pks/lookup?op=get&amp;search=0x2B239F5E6AC3228D">http://pgp.mit.edu/pks/lookup?op=get&amp;search=0x2B239F5E6AC3228D</a></span></div></div><div> </div></div>

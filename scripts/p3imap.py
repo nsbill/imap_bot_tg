@@ -94,7 +94,7 @@ def tel_bot(msg_send):
     if msg_send != [b'']:
         print(msg_send)
         bot = telebot.TeleBot(config["BOT"]["TOKEN"])
-        UserID=(config["BOT"]["UserID"])
+        UserID=[(config["BOT"]["UserID"])]
         for uid in UserID:
             bot.send_message(str(uid), parse_mode='HTML', text=msg_send)
     return print('Done')
